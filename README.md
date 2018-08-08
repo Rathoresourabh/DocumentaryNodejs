@@ -58,7 +58,6 @@ yarn add -DE documentary
 - [Glossary](#glossary)
   * [Online Documentation](#online-documentation)
   * [Editor Documentation](#editor-documentation)
-- [Copyright](#copyright)
 
 ## Installation & Usage
 
