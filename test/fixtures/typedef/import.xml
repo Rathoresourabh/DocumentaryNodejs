@@ -1,0 +1,8 @@
+<types>
+  <import name="IncomingMessage" from="http" />
+  <import name="ServerResponse" from="http" />
+  <import name="StorageEngine" from="koa-multer" />
+  <import name="File" from="koa-multer" />
+  <type type="(f: File) => void" name="Function"
+    desc="A function to save a file." />
+</types>

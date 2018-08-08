@@ -1,0 +1,7 @@
+- [Table Of Contents](#table-of-contents)
+- [CLI](#cli)
+  * [`-j`, `--jsdoc`: Add JSDoc](#-j---jsdoc-add-jsdoc)
+- [API](#api)
+    * [`async runSoftware(string: path, config: Config): string`](#async-runsoftwarestring-pathconfig-view-containeractions-objectstatic-boolean--truerender-function-string)
+- [Example](#example)
+- [Copyright](#copyright)
